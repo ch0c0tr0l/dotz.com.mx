@@ -10,7 +10,7 @@
     position: relative;
     background-image: url(img/Original.png);
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: 50% 50%;
     z-index: 40
 }
 .opacity {
